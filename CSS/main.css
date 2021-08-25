@@ -1,14 +1,24 @@
+body {
+    background-color: #06d6a0;
+}
+
 h1 {
     text-align: center;
     padding-top: 30px;
+    color: #073b4c;
 }
 
 h3 {
     text-align: center;
+    color: #073b4c;
 }
 
 #about-list {
     width:500px;
     margin:0 auto;
     text-align:left;
+}
+
+li {
+    color: #073b4c;
 }

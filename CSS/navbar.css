@@ -1,21 +1,26 @@
 .navbar {
   overflow: hidden;
-  background-color: #666666;
+  /* background-color: #666666; */
+  background-color: #ffd166;
   position: fixed;
   top: 0;
   width: 100%;
+  border-bottom-left-radius: 25%;
 }
 
 .navbar a {
   float: left;
   display: block;
-  color: #eeeeee;
+  /* color: #eeeeee; */
+  color: #ef476f;
   text-align: center;
   padding: 15px 18px;
   text-decoration: none;
   font-size: 18px;
+  font-weight: bold;
 }
 
 .navbar a:hover {
-  color: #1c87c9;
+  /* color: #1c87c9; */
+  color: #c43a5a;
 }
